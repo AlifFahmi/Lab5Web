@@ -116,3 +116,14 @@ tampilan browser nya seperti ini
 kemudian coba klik pada button nya, disini saya coba klik pada `button latar belakang hijau` maka backgroound akan berubah warna hijau
 
 ![ss 1](img/ss10-3.PNG)
+
+## HTML DOM
+
+### Checkbox Perhitungan Otomatis
+Membuat checkbox dengan perhitungan otomatis, disini mencoba membuat daftar menu sederhana beserta perhitungan harganya, contoh kodinganya seperti ini
+
+![ss 1](img/ss11-1.PNG)
+
+tampilan browser nya seperti ini, saat kita men=ceklist pilihan tersebut maka jumlah nominal akan otomatis terakumulasi
+
+![ss 1](img/ss11-2.PNG)
