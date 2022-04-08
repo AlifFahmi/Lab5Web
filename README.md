@@ -20,3 +20,25 @@ Membuat alert saat pada saat membuka halaman tab baru pada browser, kodingannya 
 tampilan browser nya seperti ini
 
 ![ss 1](img/ss2-2.PNG)
+
+### Pemakaian method dalam objek
+Membuat method seperti `document.write` pada object, contoh kodingannya seperti ini
+
+![ss 1](img/ss2-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss2-2.PNG)
+
+### Pemakaian Prompt
+Javascript untuk pemakaian prompt, kodinganya seperti ini
+
+![ss 1](img/ss3-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss3-2.PNG)
+
+kemudian masukan nama, sebagai contoh saya memasukan nama Alif Fahmi, maka tampilanya akan berubah seperti ini
+
+![ss 1](img/ss3-3.PNG)
