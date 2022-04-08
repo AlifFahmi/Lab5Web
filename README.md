@@ -66,3 +66,16 @@ tampilan browser nya seperti ini
 Kemudian klik pada `aritmethic` kemudian akan tampil operasi dasar aritmatikanya
 
 ![ss 1](img/ss6-3.PNG)
+
+### Seleksi kondisi (if..else)
+membuat logical if..else dengan javascript, contoh kodinganya seperti ini
+
+![ss 1](img/ss7-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss7-2.PNG)
+
+kemudian coba kita masukan angka 0-100, disini saya akan memasukan angka 90, maka yg akan muncul tampilan lulus, sesuai dengan nilai if pada kodingan diatas
+
+![ss 1](img/ss7-3.PNG)
