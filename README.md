@@ -51,3 +51,18 @@ Membuat javascript fungsi dan cara penggilanya, contoh kodingannya seperti ini
 tampilan browser nya seperti ini
 
 ![ss 1](img/ss5-2.PNG)
+
+## Dasar Pemograman di Javascript
+
+### Operasi dasar aritmatika
+membuat operasi dasar aritmatika lewat javascript, contoh kodinganya seperti ini
+
+![ss 1](img/ss6-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss6-2.PNG)
+
+Kemudian klik pada `aritmethic` kemudian akan tampil operasi dasar aritmatikanya
+
+![ss 1](img/ss6-3.PNG)
