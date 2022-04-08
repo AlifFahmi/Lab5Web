@@ -79,3 +79,16 @@ tampilan browser nya seperti ini
 kemudian coba kita masukan angka 0-100, disini saya akan memasukan angka 90, maka yg akan muncul tampilan lulus, sesuai dengan nilai if pada kodingan diatas
 
 ![ss 1](img/ss7-3.PNG)
+
+### Operator Switch
+Membuat operator switch untuk seleksi kondisi, ontoh kodinganya seperti ini
+
+![ss 1](img/ss7-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss7-2.PNG)
+
+kemudian coba masukan angka 4, maka tampilanya akan muncul bilangan empat, sesuai dengan kodingan diatas
+
+![ss 1](img/ss7-3.PNG)
