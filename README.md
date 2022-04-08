@@ -92,3 +92,27 @@ tampilan browser nya seperti ini
 kemudian coba masukan angka 4, maka tampilanya akan muncul bilangan empat, sesuai dengan kodingan diatas
 
 ![ss 1](img/ss8-3.PNG)
+
+## Pembuatan Form
+
+### Form Input
+Membuat form input menggunakan javasript, contoh kodinganya seperti ini
+
+![ss 1](img/ss9-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss9-2.PNG)
+
+### Form Button
+Membuat form button menggunakan javasript, contoh kodinganya seperti ini
+
+![ss 1](img/ss10-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss10-2.PNG)
+
+kemudian coba klik pada button nya, disini saya coba klik pada `button latar belakang hijau` maka backgroound akan berubah warna hijau
+
+![ss 1](img/ss10-3.PNG)
