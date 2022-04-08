@@ -42,3 +42,12 @@ tampilan browser nya seperti ini
 kemudian masukan nama, sebagai contoh saya memasukan nama Alif Fahmi, maka tampilanya akan berubah seperti ini
 
 ![ss 1](img/ss4-3.PNG)
+
+### Fungsi dan Cara Pemanggilan
+Membuat javascript fungsi dan cara penggilanya, contoh kodingannya seperti ini
+
+![ss 1](img/ss5-1.PNG)
+
+tampilan browser nya seperti ini
+
+![ss 1](img/ss5-2.PNG)
