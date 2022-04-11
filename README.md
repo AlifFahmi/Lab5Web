@@ -127,3 +127,18 @@ Membuat checkbox dengan perhitungan otomatis, disini mencoba membuat daftar menu
 tampilan browser nya seperti ini, saat kita men=ceklist pilihan tersebut maka jumlah nominal akan otomatis terakumulasi
 
 ![ss 1](img/ss11-2.PNG)
+
+## Form Validasi
+Tugas Kali ini kita membuat form dengan validasi javasript, untuk kodinganya seperti ini, kemudian deklarasikan dengan css nya
+
+![ss 1](img/ss12-1.PNG)
+
+![ss 1](img/ss12-2.PNG)
+
+tampilan browsernya seperti ini
+
+![ss 1](img/ss12-3.PNG)
+
+untuk validasinya, saat kita mengosongkan form tersebut maka akan tampil sebuah alert
+
+![ss 1](img/ss12-4.PNG)
